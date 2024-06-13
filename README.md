@@ -10,12 +10,12 @@ GODCoin is a web3 earning on Binance smart chain. Revolutionary that yields real
 #Company Overviews. G.O.D. Holding Group is a leading investment company in many projects. We choose to invest in companies that have the technology to meet today’s user needs across media and applications. that gives good returns
 
 
-GO SOCIAL CO., LTD. Leading business media production company that have high growth rates and business value Ready to do a full service business
+- GO SOCIAL CO., LTD. Leading business media production company that have high growth rates and business value Ready to do a full service business
 
-THAICASINOTECH CO., LTD. The company produces innovative health-related products such as dietary supplements and others.
+- THAICASINOTECH CO., LTD. The company produces innovative health-related products such as dietary supplements and others.
 
 
-360 INNOVATION CO.,LTD. Produces New Life dietary supplement products that help in nourishing the body and treating drug addicts. Drug addiction treatment is an important process for restoring physical and mental abilities.
+- 360 INNOVATION CO.,LTD. Produces New Life dietary supplement products that help in nourishing the body and treating drug addicts. Drug addiction treatment is an important process for restoring physical and mental abilities.
 
 # Link us
 
