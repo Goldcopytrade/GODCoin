@@ -1,6 +1,6 @@
 # Gold invest (GIVCoin), The Token For Gold trading platform
 
-<div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
+<div align="center"><img src="https://godholding.net/page3/wp-content/uploads/2024/06/logo200x200.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
