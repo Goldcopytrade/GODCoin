@@ -19,15 +19,13 @@ GODCoin is a web3 earning on Binance smart chain. Revolutionary that yields real
 
 # Link us
 
-🌐 Smart Contract : https://bscscan.com/address/0x977d3c595f9c9b5a3a5b05845499dc05ea713026
+🌐 Smart Contract : https://bscscan.com/token/0xD80ED841999751C7c7f087A80699F704fEF5C900
 
-📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x977d3c595f9c9b5A3A5b05845499Dc05EA713026
+📊 But token : https://pancakeswap.finance/swap?outputCurrency=0xD80ED841999751C7c7f087A80699F704fEF5C900
 
-🔰 Staking : https://goldinvests.io/staking
+🟩 Twitter : https://x.com/godholding679
 
-🟩 Twitter : https://twitter.com/official46512
+🚮 Facebook : https://www.facebook.com/profile.php?id=61559713235858
 
-🚮 Facebook : https://www.facebook.com/goldinvestofficial
-
-🟢 Telegram : https://t.me/Goldinvestofficial
+🟢 Telegram : http://t.me/godholding
 
