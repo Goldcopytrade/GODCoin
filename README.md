@@ -1,4 +1,4 @@
-# Gold invest (GIVCoin), The Token For Gold trading platform
+# GODCoin, Ecosystem Of Web3 Technology
 
 <div align="center"><img src="https://godholding.net/page3/wp-content/uploads/2024/06/logo400x400.fw_-1.png)" /><br />
 </div>
