@@ -1,4 +1,4 @@
-# GODCoin, Ecosystem Of Web3 Technology
+<center># GODCoin, Ecosystem Of Web3 Technology<center>
 
 <div align="center"><img src="https://godholding.net/page3/wp-content/uploads/2024/06/logo400x400.fw_-1.png)" /><br />
 </div>
